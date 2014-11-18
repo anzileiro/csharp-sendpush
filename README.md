@@ -6,15 +6,13 @@ Send push notifications natively for iOS, Android and Windows Phone 8, developed
 Example
 ===============
 
-var wp = new WindowsPhone("your_device_key", 
 
-                          "Your Message !!!", 
+var wp =     
 
-                          "yourViewInApp.xaml", 
-
-                          TypeShipping.DeliverImmediate); 
+                          new WindowsPhone("your_device_key", "Your Message !!!", "yourViewInApp.xaml", TypeShipping.DeliverImmediate); 
 
 wp.Send();
+
 
 TypeShipping, is time that the notification will be delivered in seconds.
 
