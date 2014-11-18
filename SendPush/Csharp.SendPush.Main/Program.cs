@@ -4,11 +4,11 @@ namespace Csharp.SendPush.Main
 {
     public class Program
     {
-        public const string WP_DEVICE_KEY_TEST = "YOUR_DEVICE_JEY";
+        public const string WP_DEVICE_KEY_TEST = "YOUR_DEVICE_KEY";
 
         public static void Main(string[] args)
         {
-            var wp = new WindowsPhone(WP_DEVICE_KEY_TEST, "your message !!!", "yourViewInApp.xaml", TypeShipping.DeliverImmediate);
+            var wp = new WindowsPhone(WP_DEVICE_KEY_TEST, "yourMessage !!!", "yourViewInApp.xaml", TypeShipping.DeliverImmediate);
             wp.Send();
         }
     }

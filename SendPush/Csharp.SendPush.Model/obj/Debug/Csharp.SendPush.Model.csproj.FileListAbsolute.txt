@@ -3,3 +3,8 @@ C:\projetos\net\SendPush\Csharp.SendPush.Model\bin\Debug\Csharp.SendPush.Model.p
 C:\projetos\net\SendPush\Csharp.SendPush.Model\obj\Debug\Csharp.SendPush.Model.csprojResolveAssemblyReference.cache
 C:\projetos\net\SendPush\Csharp.SendPush.Model\obj\Debug\Csharp.SendPush.Model.dll
 C:\projetos\net\SendPush\Csharp.SendPush.Model\obj\Debug\Csharp.SendPush.Model.pdb
+C:\Users\cl0931\Desktop\csharp-sendpush\SendPush\Csharp.SendPush.Model\bin\Debug\Csharp.SendPush.Model.dll
+C:\Users\cl0931\Desktop\csharp-sendpush\SendPush\Csharp.SendPush.Model\bin\Debug\Csharp.SendPush.Model.pdb
+C:\Users\cl0931\Desktop\csharp-sendpush\SendPush\Csharp.SendPush.Model\obj\Debug\Csharp.SendPush.Model.csprojResolveAssemblyReference.cache
+C:\Users\cl0931\Desktop\csharp-sendpush\SendPush\Csharp.SendPush.Model\obj\Debug\Csharp.SendPush.Model.dll
+C:\Users\cl0931\Desktop\csharp-sendpush\SendPush\Csharp.SendPush.Model\obj\Debug\Csharp.SendPush.Model.pdb
