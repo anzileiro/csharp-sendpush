@@ -9,19 +9,18 @@ Example
 ```csharp
 var wp = new WindowsPhone("your_device_key", "Your Message !!!", "yourViewInApp.xaml", TypeShipping.DeliverImmediate); 
 wp.Send();
+
+//yourViewInApp.xaml = Is the screen that opens when the user receives and tap the notification.
+
+//is time that the notification will be delivered in seconds.
+public enum TypeShipping
+    {
+        DeliverImmediate = 2, //will be delivered as fast as possible, preferably now.
+        DeliverInSevenMinutes = 12, // will be delivered in 7 minutes.
+        DeliverInFifteenMinutes = 900 //will be delivered in 15 minutes.
+    }
+
 ```
-
-
-
-TypeShipping, is time that the notification will be delivered in seconds.
-
-DeliverImmediate = will be delivered as fast as possible, preferably now.
-
-DeliverInSevenMinutes = will be delivered in 7 minutes.
-
-DeliverInFifteenMinutes = will be delivered in 15 minutes.
-
-yourViewInApp.xaml = Is the screen that opens when the user receives and tap the notification.
 
 
 License
