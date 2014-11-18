@@ -1,0 +1,5 @@
+C:\projetos\net\SendPush\Csharp.SendPush.Model\bin\Debug\Csharp.SendPush.Model.dll
+C:\projetos\net\SendPush\Csharp.SendPush.Model\bin\Debug\Csharp.SendPush.Model.pdb
+C:\projetos\net\SendPush\Csharp.SendPush.Model\obj\Debug\Csharp.SendPush.Model.csprojResolveAssemblyReference.cache
+C:\projetos\net\SendPush\Csharp.SendPush.Model\obj\Debug\Csharp.SendPush.Model.dll
+C:\projetos\net\SendPush\Csharp.SendPush.Model\obj\Debug\Csharp.SendPush.Model.pdb

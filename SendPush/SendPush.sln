@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp.SendPush.Main", "Csharp.SendPush.Main\Csharp.SendPush.Main.csproj", "{430A8B26-79FE-452D-AD00-2D461CB729FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp.SendPush.Model", "Csharp.SendPush.Model\Csharp.SendPush.Model.csproj", "{2422B4E8-BFB8-4574-BA39-5F565BB3E945}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{430A8B26-79FE-452D-AD00-2D461CB729FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{430A8B26-79FE-452D-AD00-2D461CB729FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{430A8B26-79FE-452D-AD00-2D461CB729FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{430A8B26-79FE-452D-AD00-2D461CB729FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2422B4E8-BFB8-4574-BA39-5F565BB3E945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2422B4E8-BFB8-4574-BA39-5F565BB3E945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2422B4E8-BFB8-4574-BA39-5F565BB3E945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2422B4E8-BFB8-4574-BA39-5F565BB3E945}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
