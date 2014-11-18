@@ -6,3 +6,11 @@ C:\projetos\net\SendPush\Csharp.SendPush.Main\obj\Debug\Csharp.SendPush.Main.exe
 C:\projetos\net\SendPush\Csharp.SendPush.Main\obj\Debug\Csharp.SendPush.Main.pdb
 C:\projetos\net\SendPush\Csharp.SendPush.Main\bin\Debug\Csharp.SendPush.Model.dll
 C:\projetos\net\SendPush\Csharp.SendPush.Main\bin\Debug\Csharp.SendPush.Model.pdb
+C:\Users\cl0931\Desktop\csharp-sendpush\SendPush\Csharp.SendPush.Main\bin\Debug\Csharp.SendPush.Main.exe.config
+C:\Users\cl0931\Desktop\csharp-sendpush\SendPush\Csharp.SendPush.Main\obj\Debug\Csharp.SendPush.Main.exe
+C:\Users\cl0931\Desktop\csharp-sendpush\SendPush\Csharp.SendPush.Main\obj\Debug\Csharp.SendPush.Main.pdb
+C:\Users\cl0931\Desktop\csharp-sendpush\SendPush\Csharp.SendPush.Main\bin\Debug\Csharp.SendPush.Main.exe
+C:\Users\cl0931\Desktop\csharp-sendpush\SendPush\Csharp.SendPush.Main\bin\Debug\Csharp.SendPush.Main.pdb
+C:\Users\cl0931\Desktop\csharp-sendpush\SendPush\Csharp.SendPush.Main\bin\Debug\Csharp.SendPush.Model.dll
+C:\Users\cl0931\Desktop\csharp-sendpush\SendPush\Csharp.SendPush.Main\bin\Debug\Csharp.SendPush.Model.pdb
+C:\Users\cl0931\Desktop\csharp-sendpush\SendPush\Csharp.SendPush.Main\obj\Debug\Csharp.SendPush.Main.csprojResolveAssemblyReference.cache
