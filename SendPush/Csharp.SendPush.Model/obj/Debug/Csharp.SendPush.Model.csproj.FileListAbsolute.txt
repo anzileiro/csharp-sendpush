@@ -8,3 +8,10 @@ C:\Users\cl0931\Desktop\csharp-sendpush\SendPush\Csharp.SendPush.Model\bin\Debug
 C:\Users\cl0931\Desktop\csharp-sendpush\SendPush\Csharp.SendPush.Model\obj\Debug\Csharp.SendPush.Model.csprojResolveAssemblyReference.cache
 C:\Users\cl0931\Desktop\csharp-sendpush\SendPush\Csharp.SendPush.Model\obj\Debug\Csharp.SendPush.Model.dll
 C:\Users\cl0931\Desktop\csharp-sendpush\SendPush\Csharp.SendPush.Model\obj\Debug\Csharp.SendPush.Model.pdb
+C:\projetos\github\csharp-sendpush\SendPush\Csharp.SendPush.Model\obj\Debug\Csharp.SendPush.Model.csprojResolveAssemblyReference.cache
+C:\projetos\github\csharp-sendpush\SendPush\Csharp.SendPush.Model\obj\Debug\Csharp.SendPush.Model.dll
+C:\projetos\github\csharp-sendpush\SendPush\Csharp.SendPush.Model\obj\Debug\Csharp.SendPush.Model.pdb
+C:\projetos\github\csharp-sendpush\SendPush\Csharp.SendPush.Model\bin\Debug\Csharp.SendPush.Model.dll
+C:\projetos\github\csharp-sendpush\SendPush\Csharp.SendPush.Model\bin\Debug\Csharp.SendPush.Model.pdb
+C:\projetos\github\csharp-sendpush\SendPush\Csharp.SendPush.Model\bin\Debug\Newtonsoft.Json.dll
+C:\projetos\github\csharp-sendpush\SendPush\Csharp.SendPush.Model\bin\Debug\Newtonsoft.Json.xml

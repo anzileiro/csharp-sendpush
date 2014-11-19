@@ -14,3 +14,13 @@ C:\Users\cl0931\Desktop\csharp-sendpush\SendPush\Csharp.SendPush.Main\bin\Debug\
 C:\Users\cl0931\Desktop\csharp-sendpush\SendPush\Csharp.SendPush.Main\bin\Debug\Csharp.SendPush.Model.dll
 C:\Users\cl0931\Desktop\csharp-sendpush\SendPush\Csharp.SendPush.Main\bin\Debug\Csharp.SendPush.Model.pdb
 C:\Users\cl0931\Desktop\csharp-sendpush\SendPush\Csharp.SendPush.Main\obj\Debug\Csharp.SendPush.Main.csprojResolveAssemblyReference.cache
+C:\projetos\github\csharp-sendpush\SendPush\Csharp.SendPush.Main\bin\Debug\Csharp.SendPush.Main.exe.config
+C:\projetos\github\csharp-sendpush\SendPush\Csharp.SendPush.Main\obj\Debug\Csharp.SendPush.Main.exe
+C:\projetos\github\csharp-sendpush\SendPush\Csharp.SendPush.Main\obj\Debug\Csharp.SendPush.Main.pdb
+C:\projetos\github\csharp-sendpush\SendPush\Csharp.SendPush.Main\bin\Debug\Csharp.SendPush.Main.exe
+C:\projetos\github\csharp-sendpush\SendPush\Csharp.SendPush.Main\bin\Debug\Csharp.SendPush.Main.pdb
+C:\projetos\github\csharp-sendpush\SendPush\Csharp.SendPush.Main\bin\Debug\Csharp.SendPush.Model.dll
+C:\projetos\github\csharp-sendpush\SendPush\Csharp.SendPush.Main\bin\Debug\Csharp.SendPush.Model.pdb
+C:\projetos\github\csharp-sendpush\SendPush\Csharp.SendPush.Main\obj\Debug\Csharp.SendPush.Main.csprojResolveAssemblyReference.cache
+C:\projetos\github\csharp-sendpush\SendPush\Csharp.SendPush.Main\bin\Debug\Newtonsoft.Json.dll
+C:\projetos\github\csharp-sendpush\SendPush\Csharp.SendPush.Main\bin\Debug\Newtonsoft.Json.xml
